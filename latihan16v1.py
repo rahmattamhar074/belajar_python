@@ -1,0 +1,5 @@
+print('Program python menghitung luas segitiga')
+a = float(input('Masukan Alas : '))
+t = float(input('Masukan Tinggi : '))
+luas = 0.5*int(a)*int(t)
+print('Luas Segitiga = ', luas)
